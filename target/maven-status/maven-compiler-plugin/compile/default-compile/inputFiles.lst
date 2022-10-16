@@ -1,0 +1,6 @@
+/Users/weverton.castanho/architecture/employee/src/main/java/tech/getarrays/employmanager/exception/UserNotFoundException.java
+/Users/weverton.castanho/architecture/employee/src/main/java/tech/getarrays/employmanager/model/Employee.java
+/Users/weverton.castanho/architecture/employee/src/main/java/tech/getarrays/employmanager/service/EmployeeService.java
+/Users/weverton.castanho/architecture/employee/src/main/java/tech/getarrays/employmanager/repo/EmployeeRepo.java
+/Users/weverton.castanho/architecture/employee/src/main/java/tech/getarrays/employmanager/EmploymanagerApplication.java
+/Users/weverton.castanho/architecture/employee/src/main/java/tech/getarrays/employmanager/controller/EmployeeResource.java
